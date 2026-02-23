@@ -1,4 +1,4 @@
-I am a developer and an OIer.
+I'm loader3229, an incremental game developer, and a BanG Dreamer. I have more than 150 BanG Dream! GBP fanmade charts.
 
 [loader3229.github.io](https://loader3229.github.io)
 
