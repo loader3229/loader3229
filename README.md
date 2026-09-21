@@ -15,7 +15,7 @@ Also, I am an ACMer and has got some prize in ACM-ICPC regional contests.
 
 [Discord: loader3229](https://discord.gg/jztUReQ2vT)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=loader3229&locale=zh_Hans&timezone=Asia/Shanghai)](https://git.io/streak-stats)
+[![GitHub Streak](https://github.com/loader3229/loader3229/blob/streak_data/daily-streak.svg)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=loader3229&locale=zh_Hans&timezone=Asia/Shanghai&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github.com/loader3229/loader3229/blob/streak_data/weekly-streak.svg)](https://git.io/streak-stats)
